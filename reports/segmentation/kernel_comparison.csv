@@ -1,0 +1,11 @@
+species,image,kernel_size,foreground_fraction
+Alpinia Galanga (Rasna),AG-S-001.jpg,3,0.122103125
+Alpinia Galanga (Rasna),AG-S-001.jpg,5,0.12204166666666667
+Amaranthus Viridis (Arive-Dantu),AV-S-001.jpg,3,0.35153854166666665
+Amaranthus Viridis (Arive-Dantu),AV-S-001.jpg,5,0.35151458333333335
+Ficus Religiosa (Peepal Tree),FR-S-001.jpg,3,0.252003125
+Ficus Religiosa (Peepal Tree),FR-S-001.jpg,5,0.25190677083333335
+Mentha (Mint),M-S-001.jpg,3,0.29620520833333336
+Mentha (Mint),M-S-001.jpg,5,0.296171875
+Plectranthus Amboinicus (Mexican Mint),PA-S-001.jpg,3,0.2893375
+Plectranthus Amboinicus (Mexican Mint),PA-S-001.jpg,5,0.28932291666666665
