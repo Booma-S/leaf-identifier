@@ -42,3 +42,13 @@ data/own/*
 
 # Ignore generated split CSVs only if you deliberately don't want to track them
 # Do not add a blanket rule for data/splits/*.csv
+
+# Generated segmentation masks
+data/processed/
+
+# Generated preview images
+reports/segmentation_preview/
+
+# Temporary outputs and model artifacts
+outputs/
+runs/
