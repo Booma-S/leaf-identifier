@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.py[cod]
@@ -34,14 +35,11 @@ Thumbs.db
 runs/
 outputs/
 
-# Dataset images: keep local until licensing and repository size are checked
+# Dataset images: keep local
 data/raw/*
 !data/raw/README.md
 data/own/*
 !data/own/README.md
-
-# Ignore generated split CSVs only if you deliberately don't want to track them
-# Do not add a blanket rule for data/splits/*.csv
 
 # Generated segmentation masks
 data/processed/
@@ -49,6 +47,5 @@ data/processed/
 # Generated preview images
 reports/segmentation_preview/
 
-# Temporary outputs and model artifacts
-outputs/
-runs/
+# Local model artifacts
+models/training_history.csv

@@ -6,3 +6,4 @@ matplotlib
 scikit-image
 scikit-learn
 tqdm
+tensorflow==2.21.0
