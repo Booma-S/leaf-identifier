@@ -31,8 +31,6 @@ Thumbs.db
 *.pkl
 
 # Generated outputs
-reports/figures/
-reports/results/
 runs/
 outputs/
 
