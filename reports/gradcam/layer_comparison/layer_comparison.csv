@@ -1,0 +1,13 @@
+image_path,true_label,layer,predicted_label,confidence
+data/raw/Syzygium Cumini (Jamun)/SC-S-015.jpg,Syzygium Cumini (Jamun),Conv_1,Santalum Album (Sandalwood),0.6506835222244263
+data/raw/Syzygium Cumini (Jamun)/SC-S-015.jpg,Syzygium Cumini (Jamun),block_13_expand_relu,Santalum Album (Sandalwood),0.6506835222244263
+data/raw/Syzygium Cumini (Jamun)/SC-S-015.jpg,Syzygium Cumini (Jamun),block_13_depthwise_relu,Santalum Album (Sandalwood),0.6506835222244263
+data/raw/Basella Alba (Basale)/BA-S-038.jpg,Basella Alba (Basale),Conv_1,Basella Alba (Basale),0.9888968467712402
+data/raw/Basella Alba (Basale)/BA-S-038.jpg,Basella Alba (Basale),block_13_expand_relu,Basella Alba (Basale),0.9888968467712402
+data/raw/Basella Alba (Basale)/BA-S-038.jpg,Basella Alba (Basale),block_13_depthwise_relu,Basella Alba (Basale),0.9888968467712402
+data/raw/Murraya Koenigii (Curry)/MK-S-059.jpg,Murraya Koenigii (Curry),Conv_1,Murraya Koenigii (Curry),0.640995979309082
+data/raw/Murraya Koenigii (Curry)/MK-S-059.jpg,Murraya Koenigii (Curry),block_13_expand_relu,Murraya Koenigii (Curry),0.640995979309082
+data/raw/Murraya Koenigii (Curry)/MK-S-059.jpg,Murraya Koenigii (Curry),block_13_depthwise_relu,Murraya Koenigii (Curry),0.640995979309082
+data/raw/Ficus Auriculata (Roxburgh fig)/FA-S-049.jpg,Ficus Auriculata (Roxburgh fig),Conv_1,Ficus Auriculata (Roxburgh fig),0.3769608736038208
+data/raw/Ficus Auriculata (Roxburgh fig)/FA-S-049.jpg,Ficus Auriculata (Roxburgh fig),block_13_expand_relu,Ficus Auriculata (Roxburgh fig),0.3769608736038208
+data/raw/Ficus Auriculata (Roxburgh fig)/FA-S-049.jpg,Ficus Auriculata (Roxburgh fig),block_13_depthwise_relu,Ficus Auriculata (Roxburgh fig),0.3769608736038208
