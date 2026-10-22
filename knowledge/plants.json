@@ -1,272 +1,912 @@
 {
   "Alpinia Galanga (Rasna)": {
     "common_name": "Alpinia Galanga (Rasna)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Alpinia galanga (L.) Willd.",
+    "description": "A rhizomatous perennial herb of the ginger family (Zingiberaceae), growing to about 2 m with lanceolate leaves and aromatic, pungent rhizomes. The rhizome is the main part used, with fruits and leaves used locally. It is native to South and Southeast Asia and widely cultivated in India, Indonesia and Thailand.",
+    "medicinal_uses": [
+      "Rhizome extracts shown in laboratory studies to have antimicrobial and antifungal activity",
+      "Shown in laboratory and animal studies to have anti-inflammatory and antioxidant effects",
+      "Constituents such as 1'-acetoxychavicol acetate shown in cell studies to have antiproliferative activity",
+      "Reported in animal studies to have gastroprotective and anti-ulcer effects"
+    ],
+    "traditional_uses": [
+      "Rhizome used in Ayurveda (Rasna/Sugandhamula) for rheumatic and joint complaints",
+      "Rhizome used as a carminative and digestive for indigestion and flatulence",
+      "Rhizome used in folk medicine for cough, bronchitis and throat complaints",
+      "Rhizome used as a spice and for halitosis and skin infections in Southeast Asian folk practice"
+    ],
+    "evidence_note": "Evidence is mostly preclinical (in vitro and animal studies) with very few well-controlled human trials. Seek advice from a qualified practitioner before medicinal use, especially during pregnancy or when taking other medicines.",
+    "sources": [
+      {
+        "title": "Ethnomedical Potentials, Phytochemicals, and Medicinal Profile of Alpinia galanga L.: A Comprehensive Review",
+        "url": "https://scholar.unair.ac.id/en/publications/ethnomedical-potentials-phytochemicals-and-medicinal-profile-of-a/fingerprints/"
+      },
+      {
+        "title": "Alpinia galanga (L.) Willd: plant morphological characteristic, histochemical analysis and review on pharmacological activities",
+        "url": "https://karya.brin.go.id/id/eprint/17127"
+      },
+      {
+        "title": "PubMed Central article on Alpinia galanga (PMC5414456)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5414456"
+      }
+    ]
   },
   "Amaranthus Viridis (Arive-Dantu)": {
     "common_name": "Amaranthus Viridis (Arive-Dantu)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Amaranthus viridis L.",
+    "description": "An erect, annual, branched herb of the family Amaranthaceae, usually 0.3-1 m tall, with ovate leaves and small green flowers in slender spikes. The tender leaves and shoots are eaten as a leafy vegetable, and the whole plant, leaves and roots are used medicinally. It is a pantropical weed found across India, Africa and tropical Asia.",
+    "medicinal_uses": [
+      "Leaf extracts shown in laboratory and animal studies to have antioxidant activity",
+      "Shown in animal studies to have anti-inflammatory and analgesic effects",
+      "Extracts reported in animal studies to lower blood glucose and lipid levels",
+      "Extracts shown in laboratory studies to have antibacterial and antifungal activity"
+    ],
+    "traditional_uses": [
+      "Leaves eaten as a nutritious green vegetable (Arive-Dantu, Dantu soppu) in South India",
+      "Leaf and root poultice used in folk medicine for boils, inflammation and skin conditions",
+      "Root and leaf decoction used traditionally as a diuretic and for constipation",
+      "Whole plant used in folk medicine for fever, and for snake and insect bites"
+    ],
+    "evidence_note": "Evidence is mostly preclinical (in vitro and animal studies); controlled human trials are largely lacking. Leaves contain oxalates and nitrates, so people with kidney stones should be cautious; consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Phytochemical and Pharmacological potential of Amaranthus viridis L.: A Review",
+        "url": "https://ijp.arjournals.org/index.php/ijp/article/view/340"
+      },
+      {
+        "title": "Pharmaceutical Activity of Medicinal Plant Amaranthus viridis Linn. Due to Its Chemical Constituents: A Review",
+        "url": "https://journal.uhamka.ac.id/index.php/bioeduscience/article/view/12089"
+      },
+      {
+        "title": "A Comprehensive Pharmacognostic, Phytochemical Description, and Clinical Implementation of Amaranthus viridis",
+        "url": "https://www.bijps.uobaghdad.edu.iq/index.php/bijps/article/view/3171"
+      }
+    ]
   },
   "Artocarpus Heterophyllus (Jackfruit)": {
     "common_name": "Artocarpus Heterophyllus (Jackfruit)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Artocarpus heterophyllus Lam.",
+    "description": "A large evergreen tree of the mulberry family (Moraceae), up to about 20 m, bearing the largest tree-borne fruit in the world, with latex-bearing bark and glossy leaves. The fruit pulp and seeds are eaten, and the leaves, bark, roots and latex have medicinal uses. It is native to the Western Ghats of India and widely cultivated across the tropics.",
+    "medicinal_uses": [
+      "Leaf and seed extracts shown in laboratory and animal studies to have antioxidant and anti-inflammatory activity",
+      "Leaf extracts reported in animal studies to lower blood glucose",
+      "Prenylated flavonoids and lectin (jacalin) shown in laboratory studies to have antimicrobial and immunological activity",
+      "Extracts shown in cell-line studies to have antiproliferative effects, not established in humans"
+    ],
+    "traditional_uses": [
+      "Ripe fruit and seeds eaten as food and as a tonic or energy source",
+      "Leaf decoction used in folk medicine for diabetes and skin ailments",
+      "Root decoction used traditionally for fever and diarrhoea",
+      "Latex applied to wounds, abscesses and snakebite in folk practice; bark used for ulcers"
+    ],
+    "evidence_note": "Evidence is mostly preclinical; clinical data are scarce. Jackfruit pollen and fruit can cause allergy in sensitive people, and the fruit's carbohydrate load matters for people with diabetes, so consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Jackfruit (Artocarpus heterophyllus Lam.) in health and disease: a critical review (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35144492/"
+      },
+      {
+        "title": "A Systematic Review on the Role of Artocarpus heterophyllus (Jackfruit) in Cancer Research",
+        "url": "https://journals.iium.edu.my/ijahs/index.php/IJAHS/article/view/790"
+      },
+      {
+        "title": "Phytochemistry, Nutritional and Pharmacological Properties of Artocarpus heterophyllus Lam. (Jackfruit): A Review",
+        "url": "https://lavierebelle.org/IMG/pdf/phytochemistry_nutritional_and_pharmacological_properties_of_artocarpus_heterophyllus.pdf"
+      }
+    ]
   },
   "Azadirachta Indica (Neem)": {
     "common_name": "Azadirachta Indica (Neem)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Azadirachta indica A.Juss.",
+    "description": "A fast-growing, mostly evergreen tree of the mahogany family (Meliaceae), reaching 15-20 m, with pinnate leaves, small white fragrant flowers and olive-like fruits. Leaves, seed oil, bark, flowers and twigs are used. It is native to the Indian subcontinent and widely grown in tropical and subtropical regions.",
+    "medicinal_uses": [
+      "Leaf and bark extracts shown in laboratory studies to have antibacterial and antifungal activity",
+      "Limonoids such as azadirachtin and nimbolide shown in cell and animal studies to have anti-inflammatory and antiproliferative effects",
+      "Extracts reported in animal studies to lower blood glucose",
+      "Neem-containing products studied in small trials for dental plaque and gingivitis, with limited evidence",
+      "Seed oil shown in laboratory studies to have insecticidal and antiparasitic activity"
+    ],
+    "traditional_uses": [
+      "Leaf paste or juice used in Ayurveda (Nimba) for skin diseases, boils and wounds",
+      "Twigs used as a chewing stick (datun) for oral hygiene",
+      "Bark and leaf decoctions used traditionally for fever, malaria and worms",
+      "Seed oil used externally for scalp and skin conditions, and as an insect repellent"
+    ],
+    "evidence_note": "Evidence is mostly preclinical with a few small clinical studies. Neem seed oil is toxic if ingested, with serious poisoning reported in infants and children, and neem may affect fertility and blood glucose, so consult a qualified practitioner before use.",
+    "sources": [
+      {
+        "title": "Botanical Briefs: Neem Oil (Azadirachta indica), Cutis",
+        "url": "https://www.mdedge.com/cutis/article/267285/pigmentation-disorders/botanical-briefs-neem-oil-azadirachta-indica/page/0/1"
+      },
+      {
+        "title": "PubMed Central article on Azadirachta indica (neem) pharmacology (PMC4791507)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4791507/"
+      },
+      {
+        "title": "Neem (Azadirachta indica) and cancer, Current Medicinal Chemistry - Anti-Cancer Agents",
+        "url": "https://www.eurekaselect.com/article/35558"
+      }
+    ]
   },
   "Basella Alba (Basale)": {
     "common_name": "Basella Alba (Basale)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Basella alba L.",
+    "description": "A fast-growing, fleshy, twining perennial vine of the family Basellaceae, with glossy succulent heart-shaped leaves and green or red-purple stems. The leaves and stems are eaten as a vegetable, and the fruits yield a dye. It is native to tropical Asia and widely cultivated in India, Africa and the tropics as Malabar spinach.",
+    "medicinal_uses": [
+      "Leaf extracts shown in laboratory studies to have antioxidant activity",
+      "Extracts reported in animal studies to have antidiabetic and anti-ulcer effects",
+      "Shown in laboratory and animal studies to have anti-inflammatory and antimicrobial activity",
+      "Leaf extracts reported in animal studies to have hepatoprotective and mild laxative effects"
+    ],
+    "traditional_uses": [
+      "Leaves and stems cooked as a vegetable (Basale soppu) and considered cooling in Ayurveda (Upodika)",
+      "Leaf juice used traditionally as a mild laxative and for constipation",
+      "Leaf poultice applied to boils, burns and skin irritation",
+      "Root paste used in folk medicine for headache and skin conditions"
+    ],
+    "evidence_note": "Evidence is mostly preclinical (in vitro and animal studies), with little human clinical data. The leaves contain oxalates, so those prone to kidney stones should be careful; consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Pharmacognostical Standardization of Upodika - Basella alba L.: An Important Ayurvedic Antidiabetic Plant (Ancient Science of Life, PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5255969/"
+      },
+      {
+        "title": "A Review of the Taxonomy, Ethnobotany, Phytochemistry & Pharmacology of Basella alba (Basellaceae)",
+        "url": "https://www.echocommunity.org/resources/ecc0396f-87f3-48f8-8fd5-8a646e851e4b"
+      }
+    ]
   },
   "Brassica Juncea (Indian Mustard)": {
     "common_name": "Brassica Juncea (Indian Mustard)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Brassica juncea (L.) Czern.",
+    "description": "An erect annual herb of the cabbage family (Brassicaceae), 1-2 m tall, with lobed leaves and yellow four-petalled flowers followed by slender pods containing small brown seeds. The seeds (for spice and oil) and leaves (as greens) are used. It is cultivated widely across India, Asia and temperate regions.",
+    "medicinal_uses": [
+      "Seed and leaf glucosinolate breakdown products (isothiocyanates) shown in laboratory studies to have antimicrobial and antiproliferative activity",
+      "Extracts shown in laboratory and animal studies to have antioxidant and anti-inflammatory effects",
+      "Extracts reported in animal studies to have antidiabetic and lipid-lowering effects",
+      "Plant studied for phytoremediation of heavy metals, not for therapeutic use"
+    ],
+    "traditional_uses": [
+      "Seed poultice (mustard plaster) used externally in folk medicine for joint pain, muscle aches and chest congestion",
+      "Seeds used in Ayurveda (Rajika/Sarshapa) as a digestive stimulant and for cough",
+      "Seed oil used for massage and in cooking",
+      "Leaves cooked as greens (sarson ka saag) and used as a traditional tonic food"
+    ],
+    "evidence_note": "Evidence is mostly preclinical, with limited clinical data. Mustard plasters can cause skin burns and blistering, high intake of mustard may irritate the gut, and seed oil contains erucic acid; consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Comprehensive advances in phytochemical components, bioactive functionality, and processing applications of mustard (Brassica juncea (L.) Czern.): a review",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12350256/"
+      },
+      {
+        "title": "A comprehensive review on the chemical constituents and pharmacological activities of Mustard plants",
+        "url": "https://banglajol.info/index.php/JUJBS/article/view/74479"
+      }
+    ]
   },
   "Carissa Carandas (Karanda)": {
     "common_name": "Carissa Carandas (Karanda)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Carissa carandas L.",
+    "description": "Carissa carandas (family Apocynaceae) is a thorny, evergreen, much-branched shrub with milky latex, white fragrant flowers and small fruits that turn from green-pink to dark purple when ripe. The fruits, leaves, roots and bark are used; it is native to the Indian subcontinent and widely cultivated in South and Southeast Asia.",
+    "medicinal_uses": [
+      "Fruit and leaf extracts have shown antioxidant activity in laboratory assays",
+      "Extracts have shown antimicrobial effects in vitro",
+      "Animal studies of extracts report anti-inflammatory, analgesic and antidiabetic-type effects (preliminary)",
+      "Root and leaf extracts have shown gastroprotective and hepatoprotective effects in animal models (preliminary)"
+    ],
+    "traditional_uses": [
+      "Ripe fruit eaten or made into pickles and preserves; unripe fruit used as an astringent",
+      "Fruit used in Ayurveda for digestive complaints, as a stomachic and for anaemia and scurvy-type conditions",
+      "Root used as a bitter, stomachic and anthelmintic in folk medicine",
+      "Leaf decoction used in folk practice for fever, diarrhoea and mouth ulcers"
+    ],
+    "evidence_note": "Evidence is mainly from phytochemical, in vitro and animal studies; robust human clinical trials are lacking. Roots and seeds of Carissa species contain cardioactive or toxic constituents in some reports, so use only under guidance of a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Phytochemistry, Pharmacology, and Nutraceutical Profile of Carissa Species: An Updated Review",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8624575/"
+      },
+      {
+        "title": "The Genus Carissa: An Ethnopharmacological, Phytochemical and Pharmacological Review",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5397391/"
+      },
+      {
+        "title": "A Review on Carissa carandas: Phytochemistry, Ethnopharmacology, and Micropropagation as Conservation Strategy",
+        "url": "https://www.journals.innovareacademics.in/index.php/ajpcr/article/view/5527"
+      }
+    ]
   },
   "Citrus Limon (Lemon)": {
     "common_name": "Citrus Limon (Lemon)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Citrus limon (L.) Osbeck",
+    "description": "Citrus limon (family Rutaceae) is a small evergreen, often spiny tree with leathery leaves, fragrant white-purple flowers and yellow acidic fruits. The juice, peel (essential oil), leaves and seeds are used; it is cultivated worldwide in subtropical and Mediterranean climates and is thought to have originated in South Asia.",
+    "medicinal_uses": [
+      "Rich in vitamin C; dietary vitamin C prevents and treats scurvy",
+      "Flavonoids (hesperidin, eriocitrin) and limonoids have shown antioxidant and anti-inflammatory activity in laboratory and animal studies",
+      "Peel essential oil and extracts have shown antimicrobial activity in vitro",
+      "Preliminary animal and small human studies suggest possible effects on lipid levels and urinary citrate (kidney stone prevention); evidence is limited"
+    ],
+    "traditional_uses": [
+      "Fruit juice used in Ayurveda (nimbu) as a digestive, appetiser and for nausea",
+      "Juice with warm water and honey used in folk practice for cough and sore throat",
+      "Leaf decoction used in folk medicine for fever and colds",
+      "Peel used as a carminative and in aromatherapy"
+    ],
+    "evidence_note": "Nutritional value and vitamin C effects are well established, but many other claimed benefits rest on laboratory and animal data. Frequent acidic juice can erode tooth enamel, and peel oil can cause photosensitivity or skin irritation; consult a qualified practitioner for therapeutic use.",
+    "sources": [
+      {
+        "title": "Citrus limon (Lemon) Phenomenon - A Review of the Chemistry, Pharmacological Properties, Applications in the Modern Pharmaceutical, Food, and Cosmetics Industries, and Biotechnological Studies",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7020168/"
+      },
+      {
+        "title": "The Chemistry and Pharmacology of Citrus Limonoids",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6273274/"
+      }
+    ]
   },
   "Ficus Auriculata (Roxburgh fig)": {
     "common_name": "Ficus Auriculata (Roxburgh fig)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Ficus auriculata Lour.",
+    "description": "Ficus auriculata (family Moraceae), the Roxburgh or elephant-ear fig, is an evergreen tree about 4-10 m tall with very large broad leaves and pear-shaped figs borne on the trunk and branches that ripen from green to red or purple. Fruit, leaves, bark, roots and latex are used; it is native to the Himalayan foothills and Southeast Asia, including India, Nepal, China and Vietnam.",
+    "medicinal_uses": [
+      "Extracts have shown strong antioxidant activity in DPPH and ABTS laboratory assays",
+      "Fruit and bark extracts inhibited alpha-amylase and alpha-glucosidase in vitro, suggesting possible antidiabetic relevance (preliminary)",
+      "Extracts and fruit isoflavones showed antibacterial activity in laboratory studies",
+      "A rat study reported reduced liver-damage markers with extracts (hepatoprotective, preliminary)"
+    ],
+    "traditional_uses": [
+      "Ripe fruit eaten fresh, dried, or cooked as curry and jam; unripe fruit used as a vegetable",
+      "Fruit used in folk medicine for diabetes, jaundice, diarrhoea and as a digestive and laxative",
+      "Latex applied to wounds and skin problems",
+      "Root and bark used in folk remedies for jaundice and fever; leaves used as fodder"
+    ],
+    "evidence_note": "Evidence is preliminary (in vitro and a few animal studies) and active compounds are not fully identified; no clinical trials were found. Consult a qualified practitioner before medicinal use, particularly if taking antidiabetic medication.",
+    "sources": [
+      {
+        "title": "Ficus auriculata Lour., an underutilized nonconventional alternative fruit to Ficus carica with nutraceutical potential (Discover Sustainability, 2024)",
+        "url": "https://link.springer.com/article/10.1007/s43621-024-00480-3"
+      },
+      {
+        "title": "Ficus auriculata (PROSEA) - PlantUse database entry",
+        "url": "https://uses.plantnet-project.org/en/Ficus_auriculata_(PROSEA)"
+      },
+      {
+        "title": "Ficus plants: State of the art from a phytochemical, pharmacological, and toxicological perspective",
+        "url": "https://nutrition-evidence.com/article/364238/ficus-plants-state-of-the-art-from-a-phytochemical-pharmacological-and-toxicological-perspective"
+      }
+    ]
   },
   "Ficus Religiosa (Peepal Tree)": {
     "common_name": "Ficus Religiosa (Peepal Tree)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Ficus religiosa L.",
+    "description": "Ficus religiosa (family Moraceae), the peepal or sacred fig, is a large, long-lived, often epiphytic-starting tree up to about 30 m with heart-shaped leaves with a long drawn-out tip and small round figs that ripen from green to purple-black. Bark, leaves, fruit, latex and tender shoots are used; it is native to India, Nepal, Sri Lanka and Southeast Asia and widely planted near temples.",
+    "medicinal_uses": [
+      "Bark and leaf extracts have shown antibacterial and antifungal activity in laboratory studies",
+      "Bark extracts and beta-sitosteryl-D-glucoside reduced blood glucose in rat studies (preliminary)",
+      "Leaf extracts showed wound-healing and anti-inflammatory effects in rodent models",
+      "Extracts have shown anticonvulsant, antioxidant and immunomodulatory effects in animal studies (preliminary)"
+    ],
+    "traditional_uses": [
+      "Bark decoction used in Ayurveda as an astringent for ulcers, diarrhoea and skin disorders",
+      "Leaves used for skin diseases, wounds and menstrual complaints",
+      "Ripe fruit used as a mild laxative and powdered for asthma",
+      "Latex applied to sores; tender twigs used as chewing sticks for oral hygiene"
+    ],
+    "evidence_note": "Nearly all evidence comes from laboratory and animal studies; human clinical data are scarce and safety in humans is not well characterised. Consult a qualified Ayurvedic or medical practitioner before use, especially in pregnancy or when taking diabetes medicines.",
+    "sources": [
+      {
+        "title": "Phytopharmacology of Ficus religiosa (PMC review)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249921/"
+      },
+      {
+        "title": "Chemical, Biological and Pharmacological Activities of Ficus religiosa: an Extensive Review",
+        "url": "https://www.banglajol.info/index.php/BPJ/article/view/75192"
+      },
+      {
+        "title": "Traditional uses, phytochemistry and pharmacology of Ficus religiosa: a review",
+        "url": "https://nutrition-evidence.com/article/152405/traditional-uses-phytochemistry-and-pharmacology-of-ficus-religiosa-a-review"
+      }
+    ]
   },
   "Hibiscus Rosa-sinensis": {
     "common_name": "Hibiscus Rosa-sinensis",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Hibiscus rosa-sinensis L.",
+    "description": "Hibiscus rosa-sinensis (family Malvaceae), the shoe-flower or China rose, is an evergreen shrub 2-5 m tall with glossy ovate leaves and large showy, usually red, funnel-shaped flowers. Flowers, leaves and roots are used; it is widely cultivated across the tropics and subtropics and is believed to have originated in East Asia.",
+    "medicinal_uses": [
+      "Flower and leaf extracts have shown antioxidant and anti-inflammatory activity in laboratory and animal studies",
+      "Extracts have shown hypoglycaemic, hypolipidaemic and hair-growth-promoting effects in animal studies (preliminary)",
+      "Extracts have shown antimicrobial effects in vitro",
+      "Animal studies reported antifertility-related effects of some extracts, which are not established in humans"
+    ],
+    "traditional_uses": [
+      "Flowers used in Ayurveda (japa) for menstrual disorders, as a cooling agent and for hair and scalp care",
+      "Flower or leaf paste applied in folk practice for skin conditions, boils and as a hair conditioner",
+      "Leaf and flower infusions used for cough and fever",
+      "Root used in folk medicine for cough and menstrual irregularities"
+    ],
+    "evidence_note": "Evidence is largely from in vitro and animal studies with little human clinical data. Animal studies suggest possible effects on fertility, so avoid use in pregnancy or when trying to conceive, and consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "PubMed Central review article on Hibiscus rosa-sinensis pharmacology (PMC12658387)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12658387"
+      },
+      {
+        "title": "PubMed Central article on Hibiscus rosa-sinensis (PMC3523494)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3523494"
+      }
+    ]
   },
   "Jasminum (Jasmine)": {
     "common_name": "Jasminum (Jasmine)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Jasminum sambac (L.) Aiton; also Jasminum officinale L.",
+    "description": "Jasminum (family Oleaceae) comprises scandent shrubs and climbers with opposite or compound leaves and intensely fragrant white flowers; J. sambac (Arabian jasmine) is a evergreen shrub native to South Asia, while J. officinale (common jasmine) is a deciduous climber from the Caucasus to the Himalaya. Flowers, leaves and roots are used, and flowers are prized for scent and tea.",
+    "medicinal_uses": [
+      "Flower extracts of J. sambac showed vasodilatory effects in isolated tissue studies and are being explored for cardiovascular relevance (preliminary)",
+      "Extracts have shown antioxidant and antimicrobial activity in laboratory studies",
+      "Animal studies report anti-inflammatory, analgesic and sedative-type effects of some Jasminum extracts (preliminary)",
+      "Jasmine fragrance has been studied for effects on mood and relaxation in small studies; evidence is limited"
+    ],
+    "traditional_uses": [
+      "Flowers (mallika, mogra) used in Ayurveda and Siddha as a cooling agent and for headache and eye complaints",
+      "Flowers traditionally used to suppress lactation, applied as poultices on breasts",
+      "Leaf juice or paste used in folk medicine for mouth ulcers and skin wounds",
+      "Roots used in folk practice for ulcers and as a purgative; flowers brewed as jasmine tea"
+    ],
+    "evidence_note": "Evidence is mostly from laboratory and animal studies; human clinical evidence is minimal and species differ in composition. Consult a qualified practitioner before medicinal use, and note that essential oils can cause skin sensitisation in some people.",
+    "sources": [
+      {
+        "title": "Jasminum sambac: A Potential Candidate for Drug Development to Cure Cardiovascular Ailments",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471681/"
+      },
+      {
+        "title": "Chemical Composition, Toxicity and Vasodilatation Effect of the Flowers Extract of Jasminum sambac (L.) Ait. 'G. Duke of Tuscany'",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320082/"
+      },
+      {
+        "title": "Jasminum officinale (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Jasminum_officinale"
+      }
+    ]
   },
   "Mangifera Indica (Mango)": {
     "common_name": "Mangifera Indica (Mango)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Mangifera indica L.",
+    "description": "A large, evergreen tree of the family Anacardiaceae with dense foliage and fleshy drupe fruits, native to South Asia and widely cultivated across the tropics. Leaves, bark, kernel, unripe and ripe fruit, and flowers are used in food and folk medicine.",
+    "medicinal_uses": [
+      "Mangiferin, a xanthone found in leaves and bark, has shown antioxidant and anti-inflammatory activity in laboratory and animal studies",
+      "Leaf and bark extracts have shown blood-glucose-lowering effects in animal models; human evidence is limited",
+      "Extracts have shown antimicrobial activity against several bacteria and fungi in vitro",
+      "Fruit pulp and peel provide vitamins and polyphenols; dietary role is better established than any therapeutic one"
+    ],
+    "traditional_uses": [
+      "Ayurveda: unripe fruit used for heat stroke and digestive complaints",
+      "Folk medicine: bark decoction used as an astringent for diarrhoea and sore throat",
+      "Folk medicine: tender leaves used in decoctions for diabetes-type complaints and dental care",
+      "Kernel powder used traditionally for diarrhoea and worm infestations"
+    ],
+    "evidence_note": "Evidence is mostly preclinical (cell and animal studies) with few well-controlled human trials. Sap and peel can cause contact dermatitis in people sensitive to urushiol-like compounds; consult a qualified practitioner before medicinal use, especially if on diabetes medication.",
+    "sources": [
+      {
+        "title": "Mangifera Indica (Mango) - Pharmacognosy Reviews article",
+        "url": "https://phcogrev.com/node/230"
+      },
+      {
+        "title": "A review on ethnopharmacological applications, pharmacological activities and bioactive compounds of Mangifera indica (Mango)",
+        "url": "https://www.res.cmb.ac.lk/medicine/meran-keshawa/pubs/a-review-on-ethnopharmacological-applications-pharmacological-activities-and-bioactive-compounds-of-mangifera-indica-mango/"
+      },
+      {
+        "title": "PubMed Central article on Mangifera indica",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249901"
+      }
+    ]
   },
   "Mentha (Mint)": {
     "common_name": "Mentha (Mint)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Mentha L. (commonly Mentha arvensis L., Mentha spicata L., Mentha x piperita L.)",
+    "description": "Mentha is a genus of aromatic, usually creeping perennial herbs in the family Lamiaceae, with square stems, opposite leaves and spikes of small flowers; hybrids such as peppermint (M. x piperita) are common. Leaves and the distilled essential oil (rich in menthol and carvone) are used; the genus is distributed worldwide in temperate regions and cultivated widely.",
+    "medicinal_uses": [
+      "Peppermint oil has been studied in clinical trials for symptoms of irritable bowel syndrome, with some positive results",
+      "Essential oils have shown antimicrobial and antioxidant activity in laboratory studies",
+      "Menthol-containing preparations used topically have shown cooling and mild analgesic effects",
+      "Spearmint extracts have shown antioxidant and some anti-inflammatory activity in preclinical studies"
+    ],
+    "traditional_uses": [
+      "Leaves taken as an infusion for indigestion, flatulence and nausea",
+      "Ayurveda/folk: leaf juice or Mentha arvensis (Japanese mint) herb used for colds, headache and digestive complaints",
+      "Leaf paste applied to the forehead for headache; leaves chewed for fresh breath",
+      "Oil used in steam inhalation for congestion"
+    ],
+    "evidence_note": "Evidence is moderate for peppermint oil in IBS and weak-to-preliminary for other uses, which come mostly from laboratory studies. Concentrated menthol or mint oil can cause heartburn or irritation and should not be applied to the face of infants; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Mentha arvensis (L.): an Insight on the Pharmacological and Phytochemical Profile (Bentham book chapter)",
+        "url": "https://www.benthamdirect.com/content/books/9789814998154.chapter-3"
+      },
+      {
+        "title": "The traditional uses, phytochemistry and pharmacology of spearmint (Mentha spicata L.): A review (AGRIS record)",
+        "url": "https://agris.fao.org/search/en/records/65df3af64c5aef494fe11a2a"
+      },
+      {
+        "title": "Potential pharmacological and toxicological basis of the essential oil from Mentha spp.",
+        "url": "https://rcfba.fcfar.unesp.br/index.php/ojs/article/view/420"
+      }
+    ]
   },
   "Moringa Oleifera (Drumstick)": {
     "common_name": "Moringa Oleifera (Drumstick)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Moringa oleifera Lam.",
+    "description": "A fast-growing, drought-tolerant small tree of the family Moringaceae with feathery tripinnate leaves and long, ribbed seed pods (drumsticks). Native to the sub-Himalayan region of the Indian subcontinent and now cultivated across the tropics; leaves, pods, seeds, flowers, roots and bark are used.",
+    "medicinal_uses": [
+      "Leaves are rich in protein, vitamins, minerals and polyphenols; used as a nutritional supplement",
+      "Leaf extracts have shown blood-glucose- and lipid-lowering effects in animal studies and a few small human trials",
+      "Isothiocyanates and flavonoids have shown anti-inflammatory and antioxidant activity in laboratory studies",
+      "Extracts have shown antimicrobial activity in vitro; seeds are also used for water clarification"
+    ],
+    "traditional_uses": [
+      "Ayurveda/Siddha: pods and leaves eaten as food-medicine for general debility and digestion",
+      "Folk: root and bark used for inflammation and swellings (root bark can be toxic)",
+      "Folk: leaves given to breastfeeding mothers as a galactagogue",
+      "Flower and seed preparations used for colds and joint pain"
+    ],
+    "evidence_note": "Human clinical evidence is limited and of variable quality; most findings are preclinical. Root and bark may contain toxic alkaloids and should be avoided, and use in pregnancy is not advised; consult a qualified practitioner, especially if taking diabetes, thyroid or blood-pressure medicines.",
+    "sources": [
+      {
+        "title": "Moringa oleifera Lam.: A Nutritional Powerhouse with Multifaceted Pharmacological and Functional Applications (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12194112/"
+      },
+      {
+        "title": "Moringa oleifera (drumstick tree)-nutraceutical, cosmetological and medicinal importance: a review (Frontiers in Pharmacology)",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1288382/epub"
+      },
+      {
+        "title": "PubMed Central article on Moringa oleifera",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5633671"
+      }
+    ]
   },
   "Muntingia Calabura (Jamaica Cherry-Gasagase)": {
     "common_name": "Muntingia Calabura (Jamaica Cherry-Gasagase)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Muntingia calabura L.",
+    "description": "A fast-growing small evergreen tree with hairy, asymmetric serrate leaves, white flowers and sweet red berries, the only species in its genus (family Muntingiaceae, formerly placed in Elaeocarpaceae or Tiliaceae). Native to tropical America and naturalised across tropical Asia including India; leaves, fruit, flowers, bark and roots are used.",
+    "medicinal_uses": [
+      "Leaf extracts have shown antioxidant and anti-inflammatory activity in laboratory and animal studies",
+      "Extracts have shown hepatoprotective and gastroprotective effects in animal models",
+      "Preclinical studies report antidiabetic, antinociceptive, antibacterial and antihypertensive effects",
+      "Flavonoids from leaves have shown anticancer activity in cell-culture studies only"
+    ],
+    "traditional_uses": [
+      "Flower infusion used for colds, headache and fever",
+      "Leaf tea used as an antispasmodic and for mild digestive complaints",
+      "Bark applied or taken for swelling and stomach ulcers (Peruvian folk use)",
+      "Ripe fruit eaten as food; root used traditionally in some regions as an emmenagogue"
+    ],
+    "evidence_note": "Evidence is entirely preclinical; a review notes no published clinical studies at the time. Root use as an abortifacient is reported in folk medicine and should be avoided; consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Traditional, Current and Prospective Therapeutic Uses of Muntingia calabura: A Comprehensive Literature Review",
+        "url": "https://rjmp.scione.com/cms/fulltext.php?id=22"
+      },
+      {
+        "title": "Muntingia calabura: A review of its traditional uses, chemical properties, and pharmacological observations",
+        "url": "https://echocommunity.org/resources/9f255cdd-a2d5-4a86-bc01-f29f818258ab"
+      }
+    ]
   },
   "Murraya Koenigii (Curry)": {
     "common_name": "Murraya Koenigii (Curry)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Murraya koenigii (L.) Spreng.",
+    "description": "A small aromatic tree or shrub of the family Rutaceae with pinnate, strongly scented leaves, white flowers and small black berries. Native to India and Sri Lanka and widely grown in South and Southeast Asia; leaves are the main part used, with bark, roots and fruit also used.",
+    "medicinal_uses": [
+      "Carbazole alkaloids (e.g. mahanimbine) have shown antioxidant and anti-inflammatory activity in laboratory studies",
+      "Leaf extracts have shown blood-glucose- and cholesterol-lowering effects in animal studies",
+      "Extracts have shown antimicrobial activity in vitro",
+      "Neuroprotective and anticancer effects have been reported in cell and animal models only"
+    ],
+    "traditional_uses": [
+      "Ayurveda/Siddha: fresh leaves eaten or taken as juice/buttermilk for indigestion, nausea and diarrhoea",
+      "Leaf paste applied to burns, bruises and skin eruptions",
+      "Leaf oil or paste used for hair care in folk practice",
+      "Root and bark used in folk medicine for body aches"
+    ],
+    "evidence_note": "Evidence is predominantly preclinical, with very limited human trials. Culinary amounts are widely consumed and generally regarded as safe, but concentrated extracts are less studied; consult a qualified practitioner, especially if taking glucose-lowering drugs.",
+    "sources": [
+      {
+        "title": "Murraya koenigii (L.) Spreng: an ethnobotanical, phytochemical and pharmacological review (Journal of Pharmacognosy and Phytochemistry)",
+        "url": "https://www.phytojournal.com/archives/2014.v3.i3.392/murraya-koenigii-l-spreng-an-ethnobotanical-phytochemical-and-pharmacological-review"
+      },
+      {
+        "title": "Murraya koenigii L. Spreng.: An updated review of chemical composition, pharmacological effects, and toxicity studies",
+        "url": "https://ir.lib.ugm.ac.id/id/eprint/15768/"
+      },
+      {
+        "title": "PubMed Central article on Murraya koenigii",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7070712"
+      }
+    ]
   },
   "Nerium Oleander (Oleander)": {
     "common_name": "Nerium Oleander (Oleander)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Nerium oleander L.",
+    "description": "An evergreen shrub of the family Apocynaceae with narrow leathery leaves and showy pink, white or red flowers, native to the Mediterranean and parts of Asia and widely planted as an ornamental, including in India. WARNING: all parts are highly poisonous because of cardiac glycosides such as oleandrin; it must never be eaten, brewed or self-administered.",
+    "medicinal_uses": [
+      "Preclinical research only: oleandrin and plant extracts have shown cytotoxic and anti-inflammatory effects in cell-culture and animal studies",
+      "Oleandrin has been investigated in laboratory settings for antiviral and anticancer activity; this does not show safety or effectiveness in humans",
+      "No oleander preparation is established as a safe medicine"
+    ],
+    "traditional_uses": [
+      "Historical/folk use only: leaf and root preparations were applied or taken for skin disease, heart complaints and as insecticide or rodenticide; these uses have caused fatal poisonings",
+      "Ayurveda/Siddha texts describe external use of root or leaf for skin conditions; this is not recommended and the plant is toxic",
+      "TOXICITY WARNING: tea from leaves or roots and even smoke from burning plant material have caused poisoning"
+    ],
+    "evidence_note": "Oleander is poisonous: ingestion can cause irregular heartbeat, low blood pressure, vomiting and death, similar to digoxin toxicity. Do not self-administer; in case of exposure contact a poison control centre or emergency services immediately. Laboratory findings do not support any human therapeutic use.",
+    "sources": [
+      {
+        "title": "Oleander and Oleandrin: Not a Safe Plant or Supplement (Missouri Poison Center)",
+        "url": "https://missouripoisoncenter.org/oleander-and-oleandrin-not-a-safe-plant-or-supplement/"
+      },
+      {
+        "title": "A Probable Fatal Case of Oleander (Nerium oleander) Poisoning on a Cattle Farm: A New Method of Detection and Quantification of the Oleandrin Toxin in Rumen",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6723884/"
+      },
+      {
+        "title": "PubMed Central article on oleander toxicity",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7889672"
+      }
+    ]
   },
   "Nyctanthes Arbor-tristis (Parijata)": {
     "common_name": "Nyctanthes Arbor-tristis (Parijata)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Nyctanthes arbor-tristis L. (family Oleaceae); also called night-flowering jasmine, harsingar or parijat",
+    "description": "A large shrub or small tree with rough, opposite leaves and fragrant white flowers with orange-red tubes that open at dusk and fall by morning. Leaves, flowers, seeds and stem bark are the parts used. It is native to the Indian subcontinent and parts of South-East Asia and is widely grown as an ornamental.",
+    "medicinal_uses": [
+      "Leaf and other extracts have shown anti-inflammatory, analgesic and antipyretic effects in laboratory and animal studies",
+      "Extracts have shown antioxidant, antimicrobial and anthelmintic activity in vitro",
+      "Hepatoprotective, immunomodulatory and antimalarial effects have been reported in preclinical models",
+      "Iridoid glycosides, flavonoids and triterpenoids are among the constituents proposed to contribute to these effects"
+    ],
+    "traditional_uses": [
+      "Leaf juice or decoction used in Ayurveda and folk medicine for fever, including malarial fever",
+      "Leaf preparations used for sciatica, arthritis and joint pain",
+      "Leaves used as a mild laxative and for intestinal worms",
+      "Flowers used in traditional remedies for cough and as a tonic",
+      "Seeds and stem bark used in folk medicine for skin complaints and as a tonic"
+    ],
+    "evidence_note": "Evidence is almost entirely from in vitro and animal studies; reviews note that well-designed human trials are lacking. Reviews describe a wide safety margin for aqueous and hydroalcoholic extracts at standard doses, but high-dose and long-term data are scarce. Consult a qualified practitioner before using it, especially in pregnancy or alongside medication.",
+    "sources": [
+      {
+        "title": "Nyctanthes arbor-tristis Linn--a critical ethnopharmacological review (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23376280/"
+      },
+      {
+        "title": "A comprehensive review of Nyctanthes arbor-tristis Linn: phytochemical diversity and its pharmacological activities (Journal of Pharmacognosy and Phytochemistry, 2025)",
+        "url": "https://www.phytojournal.com/archives/2025.v14.i6.15651/a-comprehensive-review-of-nyctanthes-arbor-tristis-linn-phytochemical-diversity-and-its-pharmacological-activities"
+      }
+    ]
   },
   "Ocimum Tenuiflorum (Tulsi)": {
     "common_name": "Ocimum Tenuiflorum (Tulsi)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Ocimum tenuiflorum L. (syn. Ocimum sanctum L.; family Lamiaceae); holy basil",
+    "description": "An aromatic, branched, erect herb or subshrub with hairy stems, opposite leaves and purplish or green flower spikes. Leaves are the main part used, along with seeds, roots and the whole herb. It is native to the Indian subcontinent and is cultivated across tropical Asia and beyond, often in household and temple gardens.",
+    "medicinal_uses": [
+      "Small, short-term human trials report effects on blood glucose, lipids, blood pressure, stress and anxiety, but the evidence is limited",
+      "Extracts have shown antimicrobial, anti-inflammatory and antioxidant activity in laboratory and animal studies",
+      "Animal studies have reported glucose-lowering and stress-reducing (adaptogenic) effects",
+      "Preclinical studies have reported immunomodulatory and anticancer activity in cell and animal models"
+    ],
+    "traditional_uses": [
+      "Leaf decoction or juice used in Ayurveda for cough, cold, bronchitis and fever",
+      "Leaves used as a tonic and for stress and fatigue",
+      "Leaf juice applied to the skin for ringworm and insect bites",
+      "Seeds used in folk medicine as a demulcent, and roots for fever and malaria",
+      "Leaves taken as tea (tulsi kashayam) for general wellbeing"
+    ],
+    "evidence_note": "A systematic review of 24 human studies found favourable outcomes but judged the evidence insufficient for any specific formulation, because studies were small, short (2-13 weeks) and often of low quality. No serious adverse events were reported in short-term use; long-term safety is unestablished. Consult a qualified practitioner, particularly in pregnancy, if taking diabetes or anticoagulant medication, or before use in children.",
+    "sources": [
+      {
+        "title": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5376420"
+      },
+      {
+        "title": "A Comprehensive Review of the Phytochemical Constituents and Bioactivities of Ocimum tenuiflorum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11521583/"
+      }
+    ]
   },
   "Piper Betle (Betel)": {
     "common_name": "Piper Betle (Betel)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Piper betle L. (family Piperaceae); betel vine, betel leaf",
+    "description": "A perennial, evergreen climbing vine with glossy, heart-shaped leaves, grown on supports or trellises. The leaf is the part used medicinally, and it is the leaf, not the nut, that is chewed in betel quid. It is cultivated across South and South-East Asia and the Pacific.",
+    "medicinal_uses": [
+      "Leaf extracts and essential oil have shown antibacterial and antifungal activity in laboratory studies",
+      "Leaf extracts have shown antioxidant and anti-inflammatory effects in vitro and in animal studies",
+      "Hydroxychavicol and other phenolics are proposed to contribute to the observed antimicrobial effects",
+      "Preclinical studies have explored wound-healing, anti-diabetic and oral-hygiene-related activity; human evidence is limited"
+    ],
+    "traditional_uses": [
+      "Fresh leaf chewed after meals in South Asian customs as a mouth freshener and digestive",
+      "Leaf paste or warmed leaf applied externally to wounds, boils and swellings in Ayurveda and folk medicine",
+      "Leaf juice used for cough, cold and throat complaints",
+      "Leaf used in Ayurvedic and Siddha preparations for indigestion and bad breath"
+    ],
+    "evidence_note": "Evidence for the leaf is mostly laboratory and animal-based, with few human trials. Betel quid chewing (leaf with areca nut, often with slaked lime and tobacco) is classified by IARC as carcinogenic to humans, causing oral, pharyngeal and oesophageal cancer and oral submucous fibrosis, even without tobacco; the leaf should not be taken as a reason to chew betel quid. Consult a qualified practitioner before any medicinal use.",
+    "sources": [
+      {
+        "title": "Betelvine (Piper betle L.): A comprehensive insight into its ethnopharmacology, phytochemistry, and pharmacological, biomedical and therapeutic attributes",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9170825/"
+      },
+      {
+        "title": "Piper betle (L): Recent Review of Antibacterial and Antifungal Properties, Safety Profiles, and Commercial Applications",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8073370/"
+      },
+      {
+        "title": "WHO news release: IARC Monographs Programme finds betel-quid and areca-nut chewing carcinogenic to humans",
+        "url": "https://www.who.int/news/item/07-08-2003-iarc-monographs-programme-finds-betel-quid-and-areca-nut-chewing-carcinogenic-to-humans"
+      }
+    ]
   },
   "Plectranthus Amboinicus (Mexican Mint)": {
     "common_name": "Plectranthus Amboinicus (Mexican Mint)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Plectranthus amboinicus (Lour.) Spreng. (syn. Coleus amboinicus Lour.; Coleus aromaticus Benth.; family Lamiaceae); also Indian borage, Cuban oregano",
+    "description": "A fleshy, aromatic perennial herb with thick, hairy, scalloped leaves that smell strongly of oregano and thyme. Leaves are the part used, both in cooking and in medicine. Its exact origin is uncertain (Africa or India), and it is now grown throughout the tropics.",
+    "medicinal_uses": [
+      "Extracts and essential oil have shown antibacterial, antifungal and some antiviral activity in vitro",
+      "Anti-inflammatory, analgesic and antioxidant effects have been reported in animal and laboratory studies",
+      "Wound-healing, anticonvulsant, diuretic and bronchodilator effects have been reported in animal models",
+      "Some extracts have reduced tumour growth or induced apoptosis in cell lines and mice; this is preliminary"
+    ],
+    "traditional_uses": [
+      "Leaf juice or decoction used in folk medicine and Ayurveda for cough, cold, asthma and sore throat",
+      "Leaves used for indigestion, colic and diarrhoea",
+      "Leaf poultice or juice applied to insect bites, burns, wounds and skin conditions",
+      "Leaves eaten after childbirth in some communities to support lactation",
+      "Leaf juice given in folk practice for urinary complaints and fever"
+    ],
+    "evidence_note": "Evidence is mostly in vitro and animal-based; a review notes no scientific evidence on human safety, and composition varies with origin and preparation. Culinary amounts are considered ordinary food use, but medicinal doses are not established. Consult a qualified practitioner, especially in pregnancy, before medicinal use.",
+    "sources": [
+      {
+        "title": "Plectranthus amboinicus (Lour.) Spreng: Botanical, Phytochemical, Pharmacological and Nutritional Significance (Molecules, 2016)",
+        "url": "https://www.mdpi.com/1420-3049/21/4/369"
+      },
+      {
+        "title": "Plectranthus amboinicus: A Systematic Review of Traditional Uses, Phytochemical Properties, and Therapeutic Applications",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12114729/"
+      }
+    ]
   },
   "Pongamia Pinnata (Indian Beech)": {
     "common_name": "Pongamia Pinnata (Indian Beech)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Pongamia pinnata (L.) Pierre (family Fabaceae); the accepted name in current taxonomy is Millettia pinnata (L.) Panigrahi; also karanj, pongam",
+    "description": "A fast-growing, medium-sized, semi-evergreen leguminous tree with pinnate leaves, pinkish-white pea-like flowers and flat woody pods holding one or two seeds. Seeds (and their oil), leaves, bark, roots and flowers are used. It is native to India and South-East Asia and is widely planted as a shade, roadside and biodiesel tree.",
+    "medicinal_uses": [
+      "Extracts have shown anti-inflammatory, antibacterial and antiviral activity in laboratory and animal studies",
+      "Anti-ulcer, antidiarrhoeal and antiplasmodial activity has been reported in preclinical models",
+      "Seed oil and extracts have shown pediculicidal (anti-lice) and antifungal activity in vitro",
+      "Flavonoids such as karanjin and pongamol are proposed to contribute to these effects"
+    ],
+    "traditional_uses": [
+      "Seed oil (karanja oil) applied externally in Ayurveda and folk medicine for scabies, eczema and other skin diseases",
+      "Leaf juice or decoction used for coughs, colds and flatulence",
+      "Bark used for piles and as a wash for wounds and ulcers",
+      "Root and twigs used as tooth-cleaning sticks and for gum problems",
+      "Seed oil used as a lamp oil and topical remedy for rheumatic pain"
+    ],
+    "evidence_note": "Evidence is preclinical (laboratory and animal), with essentially no good human trials. Seeds and seed oil are bitter and can be toxic if swallowed, and the furanoflavonoids can irritate, so internal use of seed products is not advised. Consult a qualified practitioner before use.",
+    "sources": [
+      {
+        "title": "Pongamia pinnata: phytochemical constituents, traditional uses and pharmacological properties: a review (International Journal of Green Pharmacy, 2008; repository record)",
+        "url": "https://indianmedicine.eldoc.ub.rug.nl/51084/"
+      },
+      {
+        "title": "A phyto pharmacological review on a versatile medicinal plant: Pongamia pinnata (L.) Pierre (Journal of Pharmacognosy and Phytochemistry, 2018)",
+        "url": "https://www.phytojournal.com/archives/2018.v7.i4.4946/a-phyto-pharmacological-review-on-a-versatile-medicinal-plant-ltemgtpongamia-pinnataltemgt-l-pierre"
+      },
+      {
+        "title": "Karanj (Pongamia pinnata) - An Ayurvedic and modern overview (Asian Journal of Pharmaceutical and Clinical Research)",
+        "url": "https://journals.innovareacademics.in/index.php/ajpcr/article/view/41367"
+      }
+    ]
   },
   "Psidium Guajava (Guava)": {
     "common_name": "Psidium Guajava (Guava)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Psidium guajava L. (family Myrtaceae); common guava",
+    "description": "A small evergreen tree or large shrub with smooth, peeling, mottled bark, opposite oblong leaves, white flowers and fleshy, aromatic fruits. Fruit and leaves are the main parts used, and bark and roots are also used in folk medicine. It is native to tropical America, from southern Mexico to northern South America, and is cultivated throughout the tropics and subtropics.",
+    "medicinal_uses": [
+      "Leaf extracts have shown blood-glucose-lowering effects in animal studies and enzyme-inhibition effects in vitro; guava leaf tea has FOSHU (food for specified health use) status in Japan",
+      "In one randomized trial, a leaf extract was reported to reduce pain from primary dysmenorrhea",
+      "Leaf extracts have shown antibacterial, antidiarrhoeal and anti-plaque activity in laboratory and animal studies",
+      "Anti-inflammatory, antioxidant, hepatoprotective and lipid-lowering effects have been reported in animal studies",
+      "Anti-proliferative effects on cancer cell lines have been reported in vitro; this is preliminary"
+    ],
+    "traditional_uses": [
+      "Leaf decoction used in many regions for diarrhoea and dysentery",
+      "Leaves chewed or used as a gargle or mouthwash for toothache and gum problems",
+      "Leaf poultice applied to wounds and skin conditions",
+      "Unripe fruit and bark used in folk medicine as an astringent for loose stools",
+      "Leaf tea used in folk practice for coughs and diabetes"
+    ],
+    "evidence_note": "Most evidence comes from in vitro and animal studies; human data are limited to a few small trials, and traditional claims still need experimental confirmation. Some extracts were cytotoxic to cell lines at high concentrations. Anyone with diabetes or taking glucose-lowering or anticoagulant drugs should consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Health Effects of Psidium guajava L. Leaves: An Overview of the Last Decade (International Journal of Molecular Sciences, 2017)",
+        "url": "https://www.mdpi.com/1422-0067/18/4/897"
+      },
+      {
+        "title": "Bioactive Compounds from Guava Leaves (Psidium guajava L.): Characterization, Biological Activity, Synergistic Effects, and Technological Applications",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11944650/"
+      }
+    ]
   },
   "Punica Granatum (Pomegranate)": {
     "common_name": "Punica Granatum (Pomegranate)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Punica granatum L.",
+    "description": "A deciduous shrub or small tree (family Lythraceae, formerly Punicaceae) bearing glossy leaves, orange-red flowers and a leathery fruit full of juicy arils. The arils, juice, fruit rind (peel), flowers, leaves and root/stem bark are used. Native to Iran and the Mediterranean region and cultivated widely in warm temperate and subtropical areas, including India.",
+    "medicinal_uses": [
+      "Peel, juice and seed extracts show antioxidant and anti-inflammatory activity in laboratory and animal studies",
+      "Extracts have shown antimicrobial and antidiarrhoeal activity in vitro and in animal models",
+      "Juice and extracts have been studied for effects on blood pressure and lipids, with some small human trials but mixed or preliminary results",
+      "Polyphenols such as punicalagin and ellagic acid have shown antiproliferative effects in cell and animal studies",
+      "Extracts have shown antihyperglycaemic effects in animal studies"
+    ],
+    "traditional_uses": [
+      "Dried fruit rind decoction for diarrhoea and dysentery (Ayurveda: dadima)",
+      "Root or stem bark as an anthelmintic against tapeworm",
+      "Juice or arils as a cooling tonic and for thirst, fever and digestive complaints",
+      "Flowers for bleeding disorders and mouth ulcers or gum problems",
+      "Rind used as a gargle for sore throat and cough"
+    ],
+    "evidence_note": "Evidence is mostly from laboratory and animal studies, with limited and heterogeneous human trials. Bark and root contain alkaloids that can be toxic in excess, and pomegranate products may interact with some medicines (for example blood-pressure or statin drugs); consult a qualified practitioner before medicinal use.",
+    "sources": [
+      {
+        "title": "Review of Pharmacological and Medicinal Uses of Punica granatum (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11563771/"
+      },
+      {
+        "title": "PubMed Central article on pomegranate (Punica granatum) pharmacology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3832175/"
+      }
+    ]
   },
   "Santalum Album (Sandalwood)": {
     "common_name": "Santalum Album (Sandalwood)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Santalum album L.",
+    "description": "A small, evergreen hemi-parasitic tree (family Santalaceae) that attaches to host roots; its fragrant heartwood and roots yield the essential oil rich in alpha- and beta-santalol. Heartwood, oil and sometimes seeds are used. Native to peninsular India and parts of Indonesia and the Pacific, and cultivated in India, Australia and elsewhere.",
+    "medicinal_uses": [
+      "Alpha-santalol and oil have shown cytotoxic and apoptosis-inducing effects in cell and animal studies (preclinical)",
+      "Oil has shown antibacterial, antifungal and antiviral activity in laboratory studies",
+      "Extracts have shown antioxidant and anti-inflammatory activity in vitro",
+      "Sedative effects and cholinesterase inhibition reported in mice and in vitro",
+      "Small clinical studies have reported possible benefits on acne, mild psoriasis and warts, but evidence is limited",
+      "Antihyperglycaemic and lipid-lowering effects reported in diabetic rats"
+    ],
+    "traditional_uses": [
+      "Heartwood paste applied to skin for heat, rashes, sores and as a cooling agent (Ayurveda: chandana)",
+      "Heartwood decoction or powder for fever, urinary complaints and burning sensation",
+      "Oil used for skin conditions, colds and cough, and diarrhoea in folk medicine",
+      "Heartwood and oil in incense, ritual and aromatherapy"
+    ],
+    "evidence_note": "Evidence is mostly preclinical, with few small human studies; a review notes safety data on the genus are very limited. Topical oil can cause contact allergy in a small proportion of people, and internal use of the oil is not well studied; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Santalum Genus: phytochemical constituents, biological activities and health promoting-effects (Z. Naturforsch. C)",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1515/znc-2022-0076/html"
+      },
+      {
+        "title": "Exploring Traditional uses, phytochemistry, pharmacology and future prospectives of Santalum album (J Neonatal Surgery)",
+        "url": "https://www.jneonatalsurg.com/index.php/jns/article/view/1801"
+      }
+    ]
   },
   "Syzygium Cumini (Jamun)": {
     "common_name": "Syzygium Cumini (Jamun)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Syzygium cumini (L.) Skeels (synonyms: Eugenia jambolana Lam., Syzygium jambolanum DC.)",
+    "description": "A large evergreen tree (family Myrtaceae) with glossy leaves, small fragrant flowers and oblong purple-black berries. Fruit pulp, seeds, stem bark and leaves are used. Native to the Indian subcontinent and Southeast Asia, widely cultivated and naturalised in the tropics.",
+    "medicinal_uses": [
+      "Seed and fruit extracts have shown blood-glucose-lowering effects in animal studies; human trial evidence is limited and inconsistent",
+      "Extracts have shown antioxidant and anti-inflammatory activity in laboratory studies",
+      "Bark and leaf extracts have shown antibacterial and antidiarrhoeal activity in vitro and in animals",
+      "Anthocyanins from the fruit have shown antioxidant and lipid-modulating effects in preclinical studies"
+    ],
+    "traditional_uses": [
+      "Seed powder for diabetes (madhumeha) in Ayurveda and folk medicine",
+      "Stem bark decoction as an astringent for diarrhoea, dysentery and mouth or gum problems",
+      "Ripe fruit as a digestive and for spleen or urinary complaints",
+      "Leaves used for gum care, and as a tooth cleaner"
+    ],
+    "evidence_note": "Antidiabetic claims rest mainly on animal and in vitro data, with limited human evidence. Because it may lower blood glucose, use alongside diabetes medication could cause additive effects; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Phytochemical Profile, Biological Properties, and Food Applications of the Medicinal Plant Syzygium cumini (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8834268/"
+      },
+      {
+        "title": "Pharmacological potentials of Syzygium cumini: a review (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23460190/"
+      }
+    ]
   },
   "Syzygium Jambos (Rose Apple)": {
     "common_name": "Syzygium Jambos (Rose Apple)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Syzygium jambos (L.) Alston (synonym: Eugenia jambos L.)",
+    "description": "An evergreen tree (family Myrtaceae) with lance-shaped leaves, showy creamy-white powder-puff flowers and rose-scented, pale yellow fruits. Fruit, leaves, bark, seeds and roots are used. Native to Southeast Asia and the Malay region, and widely cultivated and naturalised across the tropics.",
+    "medicinal_uses": [
+      "Leaf and bark extracts have shown antioxidant and anti-inflammatory activity in laboratory studies",
+      "Extracts have shown antimicrobial activity in vitro",
+      "Antihyperglycaemic and analgesic effects reported in animal studies",
+      "Extracts have shown hepatoprotective and anticancer effects in preclinical models"
+    ],
+    "traditional_uses": [
+      "Leaf decoction for diabetes, fever and rheumatism in folk medicine",
+      "Fruit as a tonic and for digestive complaints",
+      "Bark used as an astringent for diarrhoea and dysentery",
+      "Seeds and roots used in folk remedies for diabetes and respiratory complaints"
+    ],
+    "evidence_note": "Evidence is almost entirely preclinical (in vitro and animal), with no robust human trials. Medicinal use is not established; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Syzygium jambos L. Alston: An Insight Into its Phytochemistry, Traditional Uses, and Pharmacological Properties (Frontiers in Pharmacology, PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845460/"
+      }
+    ]
   },
   "Tabernaemontana Divaricata (Crape Jasmine)": {
     "common_name": "Tabernaemontana Divaricata (Crape Jasmine)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult. (synonyms: Tabernaemontana coronaria, Ervatamia coronaria, Ervatamia divaricata)",
+    "description": "An evergreen shrub (family Apocynaceae) with glossy leaves, white-latex-bearing stems and fragrant white pinwheel-shaped flowers, often grown as an ornamental. Root, root bark, leaves, flowers and latex are used. Native to the Indian subcontinent and Southeast Asia, widely cultivated in tropical regions.",
+    "medicinal_uses": [
+      "Extracts have shown analgesic and anti-inflammatory effects in animal studies",
+      "Alkaloid-containing extracts have shown antidepressant, anxiolytic and anticonvulsant effects in rodents",
+      "Extracts have shown anticholinesterase activity in vitro",
+      "Antimicrobial, antioxidant and cytotoxic activities reported in laboratory studies",
+      "Antidiabetic and hepatoprotective effects reported in animal studies"
+    ],
+    "traditional_uses": [
+      "Root (and root bark) used for toothache, fever and as an anthelmintic in Ayurveda and Siddha-type folk medicine",
+      "Milky latex or leaf juice applied to wounds, and for eye conditions",
+      "Flower and leaf preparations for skin diseases, ulcers and boils",
+      "Used in Chinese and Thai traditional medicine for pain and inflammation"
+    ],
+    "evidence_note": "Evidence is largely preclinical, and many of the plant's alkaloids have not been investigated. As an alkaloid-rich Apocynaceae plant it may be toxic if taken internally in unsuitable amounts, and the latex can irritate; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Review on the Pharmacognostical, Phytochemical and Pharmacological Aspects of Tabernaemontana coronaria (Indian Journal of Pharmaceutical Sciences)",
+        "url": "https://www.ijpsonline.com/articles/review-on-the-pharmacognostical-phytochemical-and-pharmacological-aspects-of-emtabernaemontana-coronariaem-5400.html"
+      },
+      {
+        "title": "MDPI Plants article on Tabernaemontana species (returned in search results)",
+        "url": "https://www.mdpi.com/2223-7747/10/2/313/html"
+      }
+    ]
   },
   "Trigonella Foenum-graecum (Fenugreek)": {
     "common_name": "Trigonella Foenum-graecum (Fenugreek)",
-    "scientific_name": "",
-    "description": "",
-    "medicinal_uses": [],
-    "traditional_uses": [],
-    "evidence_note": "Research required. Do not present unverified uses as medical facts.",
-    "sources": []
+    "scientific_name": "Trigonella foenum-graecum L.",
+    "description": "An annual herb (family Fabaceae) with trifoliate leaves, pale yellow flowers and long slender pods holding hard, aromatic seeds. Seeds and leaves (methi) are used as spice, vegetable and medicine. Native to the Mediterranean and western Asia and cultivated widely, notably in India.",
+    "medicinal_uses": [
+      "Seed preparations have lowered blood glucose in some small clinical trials in type 2 diabetes, but many studies were low quality",
+      "Seeds have shown modest lipid-lowering effects in some trials, with mixed results",
+      "Seed extracts have been studied for lactation support, with limited and inconsistent evidence",
+      "Steroidal saponins and galactomannan fibre have shown anti-inflammatory and glucose-modulating effects in laboratory and animal studies"
+    ],
+    "traditional_uses": [
+      "Seeds for digestive complaints, loss of appetite and as a galactagogue to increase milk flow (Ayurveda: methika)",
+      "Seeds for diabetes and joint pain in Ayurveda and folk medicine",
+      "Seed poultice applied for boils, wounds and inflammation",
+      "Leaves eaten as a vegetable and tonic"
+    ],
+    "evidence_note": "NCCIH states there is not enough high-quality evidence to determine usefulness for diabetes, and that amounts above food levels are not considered safe in pregnancy. Fenugreek may lower blood sugar (take care with diabetes medicines), may interact with anticoagulants, and can cause digestive upset or allergy; consult a qualified practitioner.",
+    "sources": [
+      {
+        "title": "Fenugreek: Usefulness and Safety (NCCIH)",
+        "url": "https://nccih.nih.gov/health/fenugreek"
+      },
+      {
+        "title": "Exploring the Adverse Effects of Fenugreek in Humans: A Scoping Review (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12858439/"
+      },
+      {
+        "title": "NCBI Bookshelf entry NBK548826 (returned in fenugreek safety search; likely LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK548826/"
+      }
+    ]
   }
 }
