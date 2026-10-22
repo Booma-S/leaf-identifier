@@ -1,0 +1,5 @@
+species,training_images,test_images,incorrect_predictions,test_errors_pct
+Murraya Koenigii (Curry),42,9,2,22.22222222222222
+Trigonella Foenum-graecum (Fenugreek),26,5,2,40.0
+Ocimum Tenuiflorum (Tulsi),36,8,1,12.5
+Syzygium Cumini (Jamun),27,6,1,16.666666666666664

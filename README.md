@@ -78,46 +78,16 @@ The knowledge-base structure exists for all 30 dataset classes, but the plant de
 ## Project Structure
 
 ```text
-Leaf Identifier/
-├── app/
-│   └── app.py
-├── data/
-│   ├── raw/          # Original dataset
-│   ├── own/          # Own photos for real-world testing
-│   ├── processed/    # Generated segmentation masks
-│   └── splits/       # Train/validation/test CSV files
-├── knowledge/
-│   └── plants.json
-├── models/
-│   ├── best_leaf_cnn.keras
-│   ├── best_mobilenet.keras
-│   ├── class_names.json
-│   ├── mobilenet_class_names.json
-│   └── training histories
-├── reports/
-│   ├── cnn_baseline/
-│   ├── figures/
-│   ├── gradcam/
-│   ├── mobilenet/
-│   ├── segmentation/
-│   └── tables/
-├── src/
-│   ├── audit_dataset.py
-│   ├── eda.py
-│   ├── segment.py
-│   ├── split.py
-│   ├── validate_splits.py
-│   ├── check_duplicates.py
-│   ├── train_cnn.py
-│   ├── evaluate_cnn.py
-│   ├── train_mobilenet.py
-│   ├── evaluate_mobilenet.py
-│   ├── analyze_errors.py
-│   ├── gradcam.py
-│   └── supporting experiment scripts
-├── .gitignore
-├── requirements.txt
-└── README.md
+Leaf-Identifier/
+├── app/            # Gradio web application
+├── data/           # Dataset, own photos, processed images and splits
+├── knowledge/      # Plant information and references
+├── models/         # Trained models, class names and training histories
+├── reports/        # Evaluation results, figures and experiment outputs
+├── src/            # Image processing, training, evaluation and analysis scripts
+├── .gitignore      # Files and folders excluded from Git
+├── README.md       # Project documentation
+└── requirements.txt # Python dependencies
 ```
 
 *This is a summary of the main folders and scripts; some generated files may be omitted.*
